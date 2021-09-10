@@ -6,8 +6,9 @@ div {    padding: 5px;
 
 .container1{
     height: 400px;
-    display: flex;
     background-color: rgb(201, 190, 177);
+
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
